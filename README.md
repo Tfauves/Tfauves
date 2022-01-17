@@ -3,19 +3,22 @@
 
 &#128128;
 ### Hi there 👋
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-lang/?username=Tfauves&theme=dracula" /> -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&theme=dracula)
-<!--
-**Tfauves/Tfauves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working on my capstone java project
+- 🌱 I’m currently learning react, mysql, spring security
+- 😄 Pronouns: He/Him
+<!-- **Tfauves/Tfauves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
