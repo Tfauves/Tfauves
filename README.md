@@ -4,7 +4,7 @@
 &#128128;
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&theme=dracula&hide=stars)
 
 - 🔭 I’m currently working on my capstone java project
 - 🌱 I’m currently learning react, mysql, spring security
