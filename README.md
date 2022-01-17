@@ -1,6 +1,7 @@
 
 [![Header](https://github.com/Tfauves/Tfauves/blob/main/L4gwgjW.jpeg "Header")](https://some-url.dev/)
 
+&#128128;
 ### Hi there 👋
 
 <!--
