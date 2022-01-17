@@ -3,8 +3,8 @@
 
 &#128128;
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-lang/?username=Tfauves&theme=dracula" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-lang/?username=Tfauves&theme=dracula" /> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&theme=dracula)
 <!--
 **Tfauves/Tfauves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
