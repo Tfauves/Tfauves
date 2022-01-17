@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&theme=dracula&hide=stars)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on my capstone java project
 - 🌱 I’m currently learning react, mysql, spring security
 - 😄 Pronouns: He/Him
