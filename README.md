@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&layout=default&show_icons=true&theme=dracula&hide=stars)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&layout=compact&show_icons=true&theme=dracula&hide=stars)
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&layout=default&theme=dracula&hide=css,html) -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&layout=compact&theme=dracula&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on a capstone java project
