@@ -5,8 +5,8 @@
 ### Hi there 👋
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&theme=dracula&hide=stars)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&layout=compact&theme=dracula&hide=css,html)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&layout=default&show_icons=true&theme=dracula&hide=stars)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&layout=default&theme=dracula&hide=css,html)
 - 🔭 I’m currently working on a capstone java project
 - 🌱 I’m actively learning react, mysql, spring security
 - 😄 Pronouns: He/Him
