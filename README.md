@@ -1,6 +1,6 @@
 <!-- **Tfauves/Tfauves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Header](https://github.com/Tfauves/Tfauves/blob/main/Add%20a%20heading.gif "Header")]
+![Header](https://github.com/Tfauves/Tfauves/blob/main/Add%20a%20heading.gif "Header")
 
 &#128128;
 ### Hi there 👋
