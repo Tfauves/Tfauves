@@ -8,7 +8,11 @@
 - 🌱 I’m actively learning react, mysql, spring security
 - ⚡ Fun fact: When not coding I enjoy working on solving the rubiks cube
 
-
+#
+#
+#
+#
+#
 
 
 
