@@ -11,10 +11,11 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&layout=compact&theme=dracula&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&layout=compact&theme=dracula&hide=css,html)
+&#128128;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&theme=dracula&hide=stars)
 
-&#128128;
+
 
 
 <!-- - 👯 I’m looking to collaborate on ...
