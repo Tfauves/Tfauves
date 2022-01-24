@@ -9,23 +9,17 @@
 - ⚡ Fun fact: When not coding I enjoy working on solving the rubiks cube
 
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
- -->
+
 
 <!-- &#128128; -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&theme=dracula&hide=stars)
+
 
 <a href="https://github.com/Tfauves">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&hide=css,html" />
 </a>
 
 <a href="https://github.com/Tfauves">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Tfauves GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Tfauves GitHub Stats" />
 </a>
 
 <!-- Pinned Repositories -- >
