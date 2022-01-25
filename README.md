@@ -9,7 +9,7 @@
 - ⚡ Fun fact: When not coding I enjoy working on solving the rubiks cube
 
 ###
-- 🧰 Tools & Technologies I'm familiar with:
+ 🧰 Tools & Technologies I'm familiar with:
 
 
 
