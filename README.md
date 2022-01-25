@@ -8,12 +8,15 @@
 - 🌱 I’m actively learning react, mysql, spring security
 - ⚡ Fun fact: When not coding I enjoy working on solving the rubiks cube
 
+###
+- 🧰 Tools & Technologies I'm familiar with:
+
 
 
 
 <!-- &#128128; -->
-
-
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+###
 <a href="https://github.com/Tfauves">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&hide=css,html" />
 </a>
