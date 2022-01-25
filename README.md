@@ -15,7 +15,14 @@
 
 
 <!-- &#128128; -->
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+ ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=informational)
+ ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=informational)
+ ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=informational)
+ ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=informational)
+ ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
+
+
+ 
 ###
 <a href="https://github.com/Tfauves">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&hide=css,html" />
