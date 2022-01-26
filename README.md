@@ -29,11 +29,11 @@
 <!-- pinned repos -->
 
 <a href="https://github.com/Tfauves/YahtzeeV2.01">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=YahtzeeV2.01&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=YahtzeeV2.01&theme=dracula" />
 </a>
 
 <a href="https://github.com/Tfauves/Rummy">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=Rummy&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=Rummy&theme=dracula" />
 </a>
 
 
