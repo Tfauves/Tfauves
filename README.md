@@ -36,8 +36,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=Rummy&theme=dracula" />
 </a>
 
-<a href="https://github.com/Tfauves/Rummy">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=Rummy&theme=dracula" />
+<a href="https://github.com/Tfauves/spring_security">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=Geekylikes&theme=dracula" />
 </a>
 
 <a href="https://github.com/Tfauves/Rummy">
