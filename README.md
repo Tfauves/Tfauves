@@ -2,12 +2,12 @@
 
 ![Header](https://github.com/Tfauves/Tfauves/blob/main/Add%20a%20heading.gif "Header")
 
-
+About Me:
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on a capstone java project
 - 🌱 I’m actively learning react, mysql, spring security
 - ⚡ Fun fact: When not coding I enjoy working on solving the rubiks cube
--<br>
+<br>
 
 ###  🧰 Tools & Technologies I'm familiar with:
 
@@ -27,7 +27,7 @@
 ###
 
 <!-- pinned repos -->
-
+<br>
 <a href="https://github.com/Tfauves/YahtzeeV2.01">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=YahtzeeV2.01&theme=dracula" />
 </a>
@@ -44,6 +44,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=rest_vehicle_rental&theme=dracula" />
 </a>
 
+
+<br>
 
 <!-- git stats -->
 
