@@ -37,7 +37,7 @@ About Me:
 </a>
 
 <a href="https://github.com/Tfauves/spring_security">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=Geekylikes&theme=dracula" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=spring_security&theme=dracula" />
 </a>
 
 <a href="https://github.com/Tfauves/BlackJackGame/tree/main">
