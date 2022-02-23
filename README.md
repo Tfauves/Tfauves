@@ -29,8 +29,8 @@ About Me:
 
 <!-- pinned repos -->
 <br>
-<a href="https://github.com/Tfauves/YahtzeeV2.01">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=YahtzeeV2.01&theme=dracula" />
+<a href="https://github.com/Tfauves/DogPro">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=DogPro&theme=dracula" />
 </a>
 
 <a href="https://github.com/Tfauves/Rummy">
