@@ -6,7 +6,6 @@ About Me:
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on a capstone java project
 - 🌱 I’m actively learning react, mysql, spring security
-<!-- - ⚡ Fun fact: When not coding I enjoy working on solving the rubiks cube -->
 <br>
 
 ###  🧰 Tools & Technologies I'm familiar with:
