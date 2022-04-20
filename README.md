@@ -4,8 +4,8 @@
 
 About Me:
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on a capstone java project
-- 🌱 I’m actively learning react, mysql, spring security
+- 🔭 I’m currently working on a capstone java project utilizing spring batch
+- 🌱 I’m actively learning react, mysql, spring security, spring batch
 <br>
 
 ###  🧰 Tools & Technologies I'm familiar with:
