@@ -27,7 +27,7 @@ About Me:
 ###
 
 <!-- pinned repos -->
-<br>
+<!-- <br>
 <a href="https://github.com/Tfauves/DogPro">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=DogPro&theme=dracula" />
 </a>
@@ -42,7 +42,7 @@ About Me:
 
 <a href="https://github.com/Tfauves/BlackJackGame/tree/main">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tfauves&repo=BlackJackGame&theme=dracula" />
-</a>
+</a> -->
 
 
 <br>
