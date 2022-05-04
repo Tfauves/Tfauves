@@ -4,16 +4,23 @@
 
 About Me:
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on a capstone java project utilizing spring batch
 - 🌱 I’m actively learning react, mysql, spring security, spring batch
+- 🔭 I’m currently working on a capstone java project utilizing spring batch
+
+<a href="https://github.com/Tfauves">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&hide=css,html" />
+</a>
+
+<a href="https://github.com/Tfauves">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Tfauves GitHub Stats" />
+</a>
+
+---
 <br>
 
 🧰 Tools & Technologies I'm familiar with:
+---
 
-
-<!--   🧰 Tools & Technologies I'm familiar with: -->
-
-<!-- &#128128; -->
 <br>
 
  ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=informational) 
@@ -24,8 +31,6 @@ About Me:
  ![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&logo=springboot&logoColor=white&color=informational) 
  ![](https://img.shields.io/badge/Auth-Spring_Security-informational?style=flat&logo=springsecurity&logoColor=white&color=informational) 
  ![](https://img.shields.io/badge/Containerization-Red_Hat_Open_Shift-informational?style=flat&logo=redhatopenshift&logoColor=white&color=informational)
-
- 
 
 <!-- pinned repos -->
 <!-- <br>
@@ -50,13 +55,7 @@ About Me:
 
 <!-- git stats -->
 
-<a href="https://github.com/Tfauves">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&hide=css,html" />
-</a>
 
-<a href="https://github.com/Tfauves">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Tfauves GitHub Stats" />
-</a>
 
 
 
