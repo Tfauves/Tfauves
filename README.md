@@ -15,6 +15,7 @@ About Me:
 
 <!-- &#128128; -->
 <br>
+
  ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=informational) 
  ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=informational)  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=informational) 
  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=informational) 
