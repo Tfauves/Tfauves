@@ -4,7 +4,7 @@
 
 About Me:
 - 😄 Pronouns: He/Him
-- 🌱 I’m actively learning react, mysql, spring security, spring batch
+- 🌱 I’m actively learning React Native, SQL, Rust
 - 🔭 I’m currently working on a capstone java project utilizing spring batch
 
 <a href="https://github.com/Tfauves">
