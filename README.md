@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/Tfauves">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Tfauves&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Tfauves GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=Tfauves&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Tfauves GitHub Stats" />
 </a>
 
 ---
