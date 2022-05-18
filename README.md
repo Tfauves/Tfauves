@@ -4,7 +4,7 @@
 
 ### About Me:
 - 😁 Pronouns: He/Him
-- 🌱 I’m actively learning React, React Native, SQL, Rust
+- 🌱 I’m actively learning React, SQL
 <br>
 <a href="https://github.com/Tfauves">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&hide=css,html" />
