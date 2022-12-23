@@ -2,19 +2,20 @@
 
 ![Header](https://github.com/Tfauves/Tfauves/blob/main/Add%20a%20heading.gif "Header")
 
-### About Me:
-- 😁 Pronouns: He/Him
+<!-- ### About Me:
+- 😁 Pronouns: He/Him -->
 <br>
-<!--<a href="https://github.com/Tfauves">
+<!-- <a href="https://github.com/Tfauves">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&hide=css,html" />
-</a>-->
-
+</a>
+ -->
 
 <!--<a href="https://github.com/Tfauves">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=Tfauves&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Tfauves GitHub Stats" /> 
 </a> -->
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tfauves&theme=dracula)](https://git.io/streak-stats)
+<!--  ![tfauves GitHub stats](https://github-readme-stats.vercel.app/api?username=tfauves&show_icons=true&theme=dracula&count_private=true) -->
+ &emsp; &emsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tfauves&theme=dracula)](https://git.io/streak-stats) 
+ &emsp; &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&layout=compact&langs_count=8)](https://github.com/tfauves/github-readme-stats)
 ---
 <br>
 
