@@ -15,7 +15,7 @@
 </a> -->
 <!--  ![tfauves GitHub stats](https://github-readme-stats.vercel.app/api?username=tfauves&show_icons=true&theme=dracula&count_private=true) -->
  &emsp; &emsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tfauves&theme=dracula)](https://git.io/streak-stats) 
- &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&layout=compact&langs_count=8)](https://github.com/tfauves/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tfauves&theme=dracula&layout=compact&langs_count=8)](https://github.com/tfauves/github-readme-stats)
 ---
 <br>
 
